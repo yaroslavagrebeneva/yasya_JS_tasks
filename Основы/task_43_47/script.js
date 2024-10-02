@@ -89,3 +89,18 @@ alert(a44 + b44);
 let a = '2';
 let b = '3';
 alert(+a + +b);
+
+// Задание 47 №1
+let a47_1 = parseInt('5px');
+let b47_1 = parseInt('6px');
+alert(a47_1 + b47_1);
+
+// Задание 47 №2
+let a47_2 = parseFloat('5.5px');
+let b47_2 = parseFloat('6.25px');
+alert(a47_2 + b47_2);
+
+// Задание 47 №3
+let a47_3 = parseFloat('5.5px');
+let b47_3 = parseFloat('6.25px');
+alert(a47_3 + b47_3 + 'px');
