@@ -49,3 +49,11 @@ console.log(obj84_2.b2);
 console.log(obj84_2['c-c']);
 console.log(obj84_2['d 4']);
 console.log(obj84_2.e5);
+
+/*task#85*/
+
+let obj85 = {x: 1, y: 2, z: 3};
+obj85.x = obj85.x ** 2;
+obj85.y = obj85.y ** 2;
+obj85.z = obj85.z ** 2;
+console.log(obj85);
