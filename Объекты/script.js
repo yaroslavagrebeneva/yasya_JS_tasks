@@ -108,3 +108,22 @@ console.log(obj92_1[prop92_1]);
 let obj92_2 = {x: 1, y: 2, z: 3};
 let prop92_2 = 'x';
 console.log(obj92_2[prop92_2]);
+
+/*task#93*/
+//1
+// let key93 = 'x';
+// let obj93_1 = {
+// [key93]: 1,
+// y: 2,
+// z: 3
+// };
+
+// №2
+// let obj93_2 = {
+// 	[key93_1]: 1,
+// 	[key93_2]: 2,
+// 	[key93_3]: 3
+// 	};
+// 	let key93_1 = 'x';
+// 	let key93_2 = 'y';
+// 	let key93_3 = 'z';
