@@ -57,3 +57,11 @@ obj85.x = obj85.x ** 2;
 obj85.y = obj85.y ** 2;
 obj85.z = obj85.z ** 2;
 console.log(obj85);
+
+/*task#86*/
+
+let obj86 = {};
+obj86.a = 'mi';
+obj86.b = 'ma';
+obj86.c = 'mu';
+console.log(obj86);
