@@ -35,3 +35,17 @@ console.log(user82["surname"]+" "+user82["name"]+' '+user82["patronymic"]);
 /*task#83*/
 let date83= {year:"2024", month:"10", day:"08"};
 console.log(date83.year+'.'+date83.month+"."+date83.day);
+
+/*task#84*/
+let obj84_2 = {
+	'1a': 1, 
+	'b2': 2, 
+	'с-с': 3, 
+	'd 4': 4, 
+	'e5': 5
+}; 
+console.log(obj84_2['1a']);
+console.log(obj84_2.b2);
+console.log(obj84_2['c-c']);
+console.log(obj84_2['d 4']);
+console.log(obj84_2.e5);
