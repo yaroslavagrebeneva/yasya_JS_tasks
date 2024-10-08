@@ -31,3 +31,7 @@ let user82=
 surname: "Grebeneva", 
 patronymic: "Andreevna"};
 console.log(user82["surname"]+" "+user82["name"]+' '+user82["patronymic"]);
+
+/*task#83*/
+let date83= {year:"2024", month:"10", day:"08"};
+console.log(date83.year+'.'+date83.month+"."+date83.day);
