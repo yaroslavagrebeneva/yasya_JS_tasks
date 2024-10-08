@@ -65,3 +65,10 @@ obj86.a = 'mi';
 obj86.b = 'ma';
 obj86.c = 'mu';
 console.log(obj86);
+
+/*task87*/
+
+let obj87 = {5: 'aa', 25: 'ee', 15: 'ww'};
+console.log(obj87[5])
+console.log(obj87[15]); 
+console.log(obj87[25]);
