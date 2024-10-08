@@ -83,3 +83,9 @@ console.log(keys);
 
 let obj89 = {x: 1, y: 2, z: 3};
 console.log(Object.keys(obj89).length);
+
+/*task#90*/
+
+let obj90 = {x: 1, y: 2, z: 3};
+let key90 = 'x';
+console.log(obj90[key90]);
