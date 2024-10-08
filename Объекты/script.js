@@ -24,3 +24,10 @@ let obj81 =
 11: 'November', 
 12: 'December'};
 console.log(obj81);
+
+/*task#82*/
+let user82=
+{name: "Yaroslava" , 
+surname: "Grebeneva", 
+patronymic: "Andreevna"};
+console.log(user82["surname"]+" "+user82["name"]+' '+user82["patronymic"]);
