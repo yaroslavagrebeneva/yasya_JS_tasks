@@ -72,3 +72,9 @@ let obj87 = {5: 'aa', 25: 'ee', 15: 'ww'};
 console.log(obj87[5])
 console.log(obj87[15]); 
 console.log(obj87[25]);
+
+/*task#88*/
+
+let obj88 = {x: 1, y: 2, z: 3};
+let keys = Object.keys(obj88);
+console.log(keys);
