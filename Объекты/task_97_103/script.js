@@ -100,3 +100,23 @@
 // arr2[0] = 'b';
 // console.log(arr2);
 // Результат вывода = ['b', 2, 3] (изменение в arr2 влияет на arr1)       
+
+/*task#101*/
+
+//№1
+const arr101_1 = ['a', 'b', 'c'];
+arr101_1[1] = '!';
+console.log(arr101_1);
+// Результат вывода = ['a', '!', 'c']                                                                                                     
+
+//№2
+const arr101_2 = ['a', 'b', 'c'];
+arr101_2 = [1, 2, 3];
+console.log(arr101_2);
+// Результат вывода = Uncaught TypeError: Assignment to constant variable. (нельзя переназначить константу)                                                                                                     
+
+// №3
+const arr101_3 = ['a', 'b', 'c'];
+arr101_3 = ['a', 'b', 'c'];
+console.log(arr101_3);
+// Результат вывода = Uncaught TypeError: Assignment to constant variable. (нельзя переназначить константу)      
