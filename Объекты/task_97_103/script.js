@@ -22,3 +22,13 @@
 // let arr3 = ['1', '2', '3'];
 // console.log( typeof arr3[0] ); 
 // Результат вывода = string
+
+/*task98*/
+
+// №1
+// console.log( Array.isArray([1, 2, 3]) );
+// Результат вывода = true
+
+// №2
+// console.log( Array.isArray({x: 1, y: 2, z: 3}) ); 
+// Результат вывода = false
