@@ -65,3 +65,12 @@ if (test108_3 == test108_4) {
 } else {
 	console.log('test108_3 != test108_4');
 }
+
+/*task#109*/
+let test109_1 = 'regina';
+let test109_2 = 'rumpelshtilzhen';
+if (test109_1 == test109_2) {
+	console.log('test109_1 = test109_2'); 
+} else {
+	console.log('test109_1 != test109_2');
+}
