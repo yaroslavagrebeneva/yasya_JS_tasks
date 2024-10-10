@@ -46,3 +46,22 @@ if (test107 != 10) {
 } else {
 	console.log('---');
 }
+
+/*task#108*/
+// 1
+let test108_1 = 54;
+let test108_2 = 141;
+if (test108_1 > test108_2) {
+	console.log('test108_1 > test108_2'); 
+} else {
+	console.log('test108_1 < test108_2');
+}
+
+// 2
+let test108_3 = 45;
+let test108_4 = 45;
+if (test108_3 == test108_4) {
+	console.log('test108_3 = test108_4'); 
+} else {
+	console.log('test108_3 != test108_4');
+}
