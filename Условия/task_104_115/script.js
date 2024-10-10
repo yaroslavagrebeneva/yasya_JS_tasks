@@ -30,3 +30,11 @@ if (test105_4 <= 10) {
 } else {
 	console.log('---');
 }
+
+/*task#106*/
+let test106 = 10;
+if (test106 == 10) {
+	console.log('+++'); 
+} else {
+	console.log('---');
+}
