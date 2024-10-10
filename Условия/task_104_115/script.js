@@ -38,3 +38,11 @@ if (test106 == 10) {
 } else {
 	console.log('---');
 }
+
+/*task#107*/
+let test107 = 86859;
+if (test107 != 10) {
+	console.log('+++'); 
+} else {
+	console.log('---');
+}
