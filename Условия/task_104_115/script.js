@@ -135,3 +135,55 @@ if (test110_1 == test110_2) {
 // 	console.log('---');
 // }
 // Выведится результат = +++
+
+/*task#112*/
+
+// №1
+// let test1 = '3';
+// let test2 = '3';
+// if (test1 != test2) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Выведится результат = ---
+
+// №2
+// let test1 = '3';
+// let test2 = '3';		
+// if (test1 !== test2) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Выведится результат = ---
+
+// №3
+// let test1 = 3;
+// let test2 = '3';	
+// if (test1 != test2) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Выведится результат = ---
+
+// №4
+// let test1 = 3;
+// let test2 = '3';		
+// if (test1 !== test2) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Выведится результат = +++
+
+// №5
+// let test1 = 3;
+// let test2 = 2;	
+// if (test1 !== test2) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Выведится результат = +++
