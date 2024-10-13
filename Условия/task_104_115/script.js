@@ -213,3 +213,83 @@ if (num113_3 <= 1 && num113_4 >= 3) {
 } else {
 	console.log('---');
 }
+
+/*task114*/
+
+// №1
+// let num1 = -10;
+// let num2 = -10;
+// if (num1 >= 0 && num2 >= 0) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = ---
+ 
+// №2
+// let num1 = 0;
+// let num2 = 0;
+// if (num1 >= 0 && num2 >= 0) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = +++
+        
+// №3
+// let num1 = 0;
+// let num2 = 5;
+// if (num1 >= 0 && num2 >= 0) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = +++
+
+// №4
+// let num1 = 5;
+// let num2 = 5;
+// if (num1 >= 0 && num2 >= 0) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = +++
+
+// №5
+// let num1 = -5;
+// let num2 = 15;
+// if (num1 >= 0 && num2 >= 0) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = ---
+
+// №6
+// let num1 = -5;
+// let num2 = 15;
+// if (num1 >= 0 && num2 >= 0) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = ---
+
+// №7
+// let num = 2;
+// if (num == 0 || num == 1) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = ---
+
+// №8
+// let num = 2;
+// if (num == 0 || num == 1 || num == 2) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Выведется результат = +++
