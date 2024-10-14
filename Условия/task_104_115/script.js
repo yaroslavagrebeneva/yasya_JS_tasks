@@ -432,3 +432,129 @@ if (test118_2 === false) {
 //   console.log('---');
 // }
 // Результат вывода = --- 
+
+/*120*/
+
+let test120 = true;
+if (test120) {
+	console.log('+++');
+} else {
+	console.log('---');
+}
+
+/*121*/
+
+// №1
+let test121_1 = true;
+if (!test121_1) {
+  console.log('+++');
+} else {
+  console.log('---');
+}
+
+// №2
+let test121_2 = true;
+if (!test121_2) {
+  console.log('+++');
+} else {
+  console.log('---');
+}
+
+// №3
+let test121_3 = true;
+if (test121_3) {
+  console.log('+++');
+} else {
+  console.log('---');
+}
+
+/*122*/
+// №1
+// let test = 3;
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = +++
+
+// №2
+// let test = 'abc';
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = +++
+
+// №3
+// let test = '';
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = ---
+
+// №4
+// let test = 3 * 'abc';
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = ---
+
+// №5
+// let test = null;
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = ---
+
+// №6
+// let test = false;
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = ---
+
+// №7
+// let test;
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = ---
+
+// №8
+// let test = 0;
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = ---
+
+// №9
+// let test = '0';
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = +++
+
+// №10
+// let test = -1;
+// if (test) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = +++
