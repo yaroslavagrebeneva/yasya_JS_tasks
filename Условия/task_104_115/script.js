@@ -339,3 +339,96 @@ if (! (num117_1 < 0 || num117_2 > 10) ) {
 	console.log('---');
 }
 
+/*118*/
+
+// №1
+let test118_1 = true;
+
+if (test118_1 === true) {
+	console.log('+++');
+} else {
+	console.log('---');
+}
+
+// №2
+let test118_2 = false;
+
+if (test118_2 === false) {
+	console.log('+++');
+} else {
+	console.log('---');
+}
+
+/*119*/
+// №1
+// При приведении к логическому типу (boolean) значения, которые дают false, включают:
+// 1. false
+// 2. 0 
+// 3. -0 
+// 4. NaN 
+// 5. "" — пустая строка.
+// 6. null 
+// 7. undefined 
+
+// №2
+// let test = 1;	
+// if (test == true) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+// Результат вывода = +++
+
+// №3
+// let test = 0;  
+// if (test == true) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Результат вывода = --- 
+
+// №4
+// let test = 1;  
+// if (test == false) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Результат вывода = --- 
+
+// №5
+// let test = 1;  
+// if (test != true) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Результат вывода = --- 
+
+// №6
+// let test = '';  
+// if (test == false) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Результат вывода = +++ 
+
+// №7
+// let test;  
+// if (test == true) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Результат вывода = --- 
+
+// №8
+// let test = 3 * 'a';  
+// if (test == true) {
+//   console.log('+++');
+// } else {
+//   console.log('---');
+// }
+// Результат вывода = --- 
