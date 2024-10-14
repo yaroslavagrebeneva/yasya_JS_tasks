@@ -626,3 +626,10 @@ if (test123_15 || !test123_16 && !test123_17) {
 } else {
 	console.log('---');
 }
+
+/*124*/
+
+let test124 = 10;
+if (test124 == 10) {
+	console.log('yes');
+}
