@@ -633,3 +633,13 @@ let test124 = 10;
 if (test124 == 10) {
 	console.log('yes');
 }
+
+/*125*/
+
+// 1
+let test125_1 = 5;
+if (test125_1 > 0) console.log('+++'); else console.log('---');
+
+// 2
+let test125_2 = 15;
+if (test125_2 > 0) console.log('+++');
