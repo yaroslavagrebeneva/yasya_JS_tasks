@@ -49,3 +49,10 @@ switch (lang) {
 		console.log('язык не поддерживается');
 	break;
 }
+
+/*131*/
+let num131 = 1;
+let res131 = num131 >= 0 ? '1' : '2';
+console.log(res131);
+
+
