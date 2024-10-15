@@ -55,4 +55,19 @@ let num131 = 1;
 let res131 = num131 >= 0 ? '1' : '2';
 console.log(res131);
 
+/*132*/
+// №1
+let a132_1 = 2 * (3 - 1);
+let b132_1 = 6 - 2;
+console.log(a132_1 == b132_1);
+
+// №2
+let a132_2 = 5 * (7 - 4);
+let b132_2 = 1 + 2 + 7;
+console.log( a132_2 >= b132_2)
+
+// №3
+let a132_3 = 2 ** 4;
+let b132_3 = 4 ** 2;
+console.log(a132_3 != b132_3);
 
