@@ -222,3 +222,35 @@ for (let i = 1; i < 10; i++) {
 	str152_4 += i + "-";
 }
 console.log('Результат задания 152 №4: ' + str152_4);
+
+/*153*/
+
+// #1
+console.log('Результат задания 153 №1');
+for (let i = 10; i <= 100; i++) {
+	let str153_1 = String(i);
+		console.log(str153_1[0]);
+}
+
+//#2
+console.log('Результат задания 153 №2');
+for (let i = 10; i <= 100; i++) {
+	let str153_2 = String(i); 
+		console.log(Number(str153_2[0]) + Number(str153_2[1]));
+}
+
+// #3
+console.log('Результат задания 153 №3');
+for (let i = 10; i <= 1000; i++) {
+	let str153_3 = String(i);
+    if (str153_3[0] == '1')
+		console.log(str153_3);
+}
+
+// #4
+console.log('Результат задания 153 №4');
+for (let i = 10; i <= 1000; i++) {
+	let str153_4 = String(i);
+    if (Number(str153_4[0]) + Number(str153_4[1]) == 5)
+		console.log(str153_4);
+}
