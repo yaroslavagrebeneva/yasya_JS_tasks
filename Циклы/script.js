@@ -400,3 +400,20 @@ for (let key161_3 in obj161_3) {
     arr161_3[obj161_3[key161_3]] = key161_3;
 }
 console.log(arr161_3);
+
+/*162*/
+// #1
+console.log('Результат задания 162 №1:');
+let obj162_1 = {x: 1, y: 2, z: 3};
+for ( let i in obj162_1){
+    obj162_1[i] = obj162_1[i] ** 2;
+}
+console.log(obj162_1)
+
+// #2
+console.log('Результат задания 162 №2:');
+let obj162_2 = {x: 1, y: 2, z: 3};
+for ( let i in obj162_2){
+    obj162_2[i] +=  1;
+}
+console.log(obj162_2)
