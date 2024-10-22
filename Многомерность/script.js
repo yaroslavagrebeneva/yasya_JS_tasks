@@ -127,3 +127,72 @@ for (let i = 0; i < 3; i++) {
   }
 }
 console.log(arr173_3);
+
+/*174*/
+
+//#1
+console.log('174_1:');
+let arr174_1 = [];
+for (let i = 0; i < 3; i++) {
+    arr174_1[i] = []
+	for (let j = 1; j <= 5; j++) {
+		arr174_1[i].push(j);
+	}
+}
+console.log(arr174_1);
+
+// #2
+console.log('174_2:');
+let arr174_2 = [];
+for (let i = 0; i < 3; i++) {
+	arr174_2[i] = [];
+	
+	for (let j = 1; j <= 5; j++) {
+		arr174_2[i].push(j);
+	}
+}
+console.log(arr174_2);
+
+// #3
+console.log('174_3:');
+let arr174_3 = [];
+for (let i = 0; i < 3; i++) {
+	arr174_3[i] = [];
+	for (let j = 1; j <= 5; j++) {
+		arr174_3[i].push(j);
+	}
+}
+console.log(arr174_3);
+
+// #4
+console.log('174_4:');
+let arr174_4 = [];
+for (let i = 0; i < 3; i++) {
+	arr174_4[i] = [];
+	for (let j = 1; j <= 5; j++) {
+		arr174_4[i].push(j);
+	}
+}
+console.log(arr174_4);
+
+// #5
+console.log('174_5:');
+let arr174_5 = [];
+for (let i = 0; i < 3; i++) {
+	arr174_5[i] = [];
+	for (let j = 1; j <= 5; j++) {
+		arr174_5[i].push(j);
+	}
+}
+console.log(arr174_5);
+
+// #6
+console.log('174_6:');
+let arr174_6 = [];
+for (let i = 0; i < 3; i++) {
+	arr174_6[i] = [];
+	for (let j = 1; j <= 5; j++) {
+		arr174_6[i].push(j);
+	}
+}
+console.log(arr174_6);
