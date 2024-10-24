@@ -433,3 +433,87 @@ let obj176_3 = {
 }
 let sum176_3 = obj176_3.key1.a + obj176_3.key1.b + obj176_3.key1.c.d + obj176_3.key1.c.e + obj176_3.key1.f + obj176_3.key2.g + obj176_3.key2.h;
 console.log(sum176_3); 
+
+/*task#177*/
+// #1
+console.log('Результат задания 177 №1:');
+let obj177_1 = {
+	1: {
+		1: 11,
+		2: 12,
+		3: 13,
+	},
+	2: {
+		1: 21,
+		2: 22,
+		3: 23,
+	},
+	3: {
+		1: 24,
+		2: 25,
+		3: 26,
+	},
+}
+let sum177_1 = 0;
+for (let key in obj177_1) {
+	let subObj177_1 = obj177_1[key];
+	
+	for (let subKey in subObj177_1) {
+		sum177_1 += subObj177_1[subKey];
+	}
+}
+console.log(sum177_1);
+
+// #2
+console.log('Результат задания 177 №2:');
+let obj177_2 = {
+	1: {
+		1: {
+			1: 111,
+			2: 112,
+			3: 113,
+		},
+		2: {
+			1: 121,
+			2: 122,
+			3: 123,
+		},
+	},
+	2: {
+		1: {
+			1: 211,
+			2: 212,
+			3: 213,
+		},
+		2: {
+			1: 221,
+			2: 222,
+			3: 223,
+		},
+	},
+	3: {
+		1: {
+			1: 311,
+			2: 312,
+			3: 313,
+		},
+		2: {
+			1: 321,
+			2: 322,
+			3: 323,
+		},
+	},
+}
+sum177_2 = 0;
+for (let key in obj177_2) {
+	let subObj = obj177_2[key];
+	
+	for (let subKey in subObj) {
+		let a = subObj[subKey];
+
+		for (let b in a) {
+			sum177_2 += a[b];
+		}
+	}
+}
+console.log(sum177_2);
