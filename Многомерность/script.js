@@ -517,3 +517,13 @@ for (let key in obj177_2) {
 	}
 }
 console.log(sum177_2);
+
+/*178*/
+
+console.log('Результат задания 178 №1:');
+let students = {
+	'group1': ['Grebeneva', 'Ashirova', 'Ablyazova'],
+	'group2': ['Kolobkov', 'Lebedev', 'Lazarev'],
+	'group3': ['Baskov', 'Gagarina', 'Karnaval'],
+};
+console.log(students['group1'][0]);
