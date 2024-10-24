@@ -631,3 +631,240 @@ for (let i = 0; i < data3.length; i++) {
     console.log(items); 
   }
 }
+
+/*180*/
+
+// #1
+console.log('Результат задания 180 №1:');
+let employees = [
+  {
+      name: 'name1',
+      salary: 300,
+  },
+  {
+      name: 'name2',
+      salary: 400,
+  },
+  {
+      name: 'name3',
+      salary: 500,
+  },
+];
+
+for (let employee of employees) {
+  console.log(employee.name + ' ' + employee.salary);
+}
+
+// #2
+console.log('Результат задания 180 №2:');
+employees = [
+  {
+      name: 'name1',
+      salary: 300,
+  },
+  {
+      name: 'name2',
+      salary: 400,
+  },
+  {
+      name: 'name3',
+      salary: 500,
+  },
+];
+let sum = 0;
+for (let employee of employees) {
+  sum += employee.salary;
+}
+console.log(sum);
+
+// #3
+console.log('Результат задания 180 №3:');
+employees = [
+  {
+      name: 'name1',
+      salary: 300,
+      age: 28,
+  },
+  {
+      name: 'name2',
+      salary: 400,
+      age: 29,
+  },
+  {
+      name: 'name3',
+      salary: 500,
+      age: 30,
+  },
+  {
+      name: 'name4',
+      salary: 600,
+      age: 31,
+  },
+  {
+      name: 'name5',
+      salary: 700,
+      age: 32,
+  },
+];
+sum = 0;
+for (let employee of employees) {
+  if (employee.age >= 30) {
+      sum += employee.salary;
+  }
+}
+console.log(sum);
+
+/*181*/
+
+// #1
+console.log('Результат задания 181 №1:');
+let months = {
+	'ru': [
+		'январь',
+		'февраль',
+		'март',
+		'апрель',
+		'май',
+		'июнь',
+		'июль',
+		'август',
+		'сентябрь',
+		'октябрь',
+		'ноябрь',
+		'декабрь',
+	],
+	'en': [
+		'january',
+		'february',
+		'march',
+		'april',
+		'may',
+		'june',
+		'july',
+		'august',
+		'september',
+		'october',
+		'november',
+		'december',
+	],
+};
+let lang = 'ru'; // может быть или 'ru' или 'en'
+let month = 5;   // число от 0 до 11
+console.log(months[lang][month]);
+
+// #2
+console.log('Результат задания 181 №2:');
+affairs = {
+	'2018': {
+		11: {
+			29: ['дело111', 'дело112', 'дело113'],
+			30: ['дело121', 'дело122', 'дело123'],
+		},
+		12: {
+			30: ['дело211', 'дело212', 'дело213'],
+			31: ['дело221', 'дело222', 'дело223'],
+		},
+	},
+	'2019': {
+		12: {
+			29: ['дело311', 'дело312', 'дело313'],
+			30: ['дело321', 'дело322', 'дело323'],
+			31: ['дело331', 'дело332', 'дело333'],
+		}
+	},
+}
+let year = '2018'; // может быть или 'ru' или 'en'
+month = 11;  
+let day = 29;
+let info = 2; // число от 0 до 11
+console.log(affairs[year][month][day][info]);
+
+// #3
+console.log('Результат задания 181 №3:');
+let obj = {
+	key1: {
+		key2: '12',
+		key3: '13',
+	},
+	key2: {
+		key4: '24',
+		key5: '25',
+	},
+}
+let key1 = 'key2';
+let key2 = 'key4';
+console.log(obj[key1][key2]);
+
+// #4
+console.log('Результат задания 181 №4:');
+obj = {
+	key1: {
+		key2: '12',
+		key3: '13',
+	},
+	key2: {
+		key4: '24',
+		key5: '25',
+	},
+}
+key1 = 'key2';
+key2 = 'key4';
+console.log(obj[key1][key2]);
+
+// #5
+console.log('Результат задания 181 №5:');
+obj = {
+	key1: {
+		key2: '12',
+		key3: '13',
+	},
+	key2: {
+		key4: '24',
+		key5: '25',
+	},
+}
+key1 = 'key2';
+key2 = 'key4';
+console.log(obj[key1][key2]);
+
+// #6
+console.log('Результат задания 181 №6:');
+obj = {
+	key1: {
+		key2: '12',
+		key3: '13',
+	},
+	key2: {
+		key4: '24',
+		key5: '25',
+	},
+}
+key1 = 'key2';
+key2 = 'key4';
+console.log(obj[key1][key2]);
+
+/*182*/
+console.log('Результат задания 182 №1:');
+let employees182 = [
+	{
+		name: 'Yasya',
+		salary: 300,
+		age: 28,
+	},
+	{
+		name: 'Adile',
+		salary: 400,
+		age: 29,
+	},
+	{
+		name: 'Kate',
+		salary: 500,
+		age: 30,
+	},
+];
+employees182.push({
+	name: 'Zemine',
+	salary: 600,
+	age: 31,
+});
+console.log(employees182[3])
