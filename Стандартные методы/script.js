@@ -96,13 +96,13 @@ console.log('Метод subslice: ' + (word190_2));
 /*191*/
 // #1
 console.log('Результат задания 191 №1:');
-let str191_1 = "file:///D:/javascript_tasks_kate/STANDARD_METHODS/tasks%23184-198/kate_tasks%23184-198.html";
+let str191_1 = "file:///D:/YASYA_JS_TASKS/Стандартные методы/yasya_task_184_199_standart_methods.html";
 let res191_1 = str191_1.startsWith('https://');
 console.log(res191_1);
 
 // #2
 console.log('Результат задания 191 №2:');
-let str191_2 = "file:///D:/javascript_tasks_kate/STANDARD_METHODS/tasks%23184-198/kate_tasks%23184-198.html";
+let str191_2 = "file:///D:/YASYA_JS_TASKS/Стандартные методы/yasya_task_184_199_standart_methods.html";
 let res191_2 = str191_2.endsWith('.html');
 console.log(res191_2);
 
@@ -113,3 +113,23 @@ while (str192_1.includes('-')) {
 	str192_1 = str192_1.replace('-', '.');
 }
 console.log(str192_1);
+
+/*193*/
+
+// #1
+console.log('Результат задания 193 №1:');
+let str193_1 = '1-2-3-4-5';
+let arr193_1 = str193_1.split('-');
+console.log(arr193_1);
+
+// #2
+console.log('Результат задания 193 №2:');
+let str193_2 = '12345'
+let arr193_2 = str193_2.split('');
+console.log(arr193_2);
+
+// #3
+console.log('Результат задания 193 №3:');
+let arr193_3= [1, 2, 3, 4, 5];
+let str193_3 = arr193_3.join('-');
+console.log(str193_3);
