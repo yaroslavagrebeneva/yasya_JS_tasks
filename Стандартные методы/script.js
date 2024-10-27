@@ -15,3 +15,19 @@ for(let elem184_3 of arr184_3){
 	sum184_3 = sum184_3 + Math.pow(elem184_3,3);
 }
 console.log(Math.sqrt(sum184_3));
+
+/*185*/
+
+// #1
+console.log('Результат задания 185 №1:');
+let num185_1 = Math.sqrt(379);
+console.log(Math.round(num185_1));
+console.log(num185_1.toFixed(1));
+console.log(num185_1.toFixed(2));
+
+// #2
+console.log('Результат задания 185 №2:');
+let num185_2 = Math.sqrt(587);
+let floor185_2 = Math.floor(num185_2);
+let ceil185_2 = Math.ceil(num185_2);
+console.log(floor185_2, ceil185_2);
