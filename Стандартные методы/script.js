@@ -31,3 +31,9 @@ let num185_2 = Math.sqrt(587);
 let floor185_2 = Math.floor(num185_2);
 let ceil185_2 = Math.ceil(num185_2);
 console.log(floor185_2, ceil185_2);
+
+/*186*/
+
+console.log('Результат задания 186 №1:');
+console.log('Максимальное число: ' + (Math.max(4, -2, 5, 19, -130, 0, 10)));
+console.log('Минимальное число: ' + Math.min(4, -2, 5, 19, -130, 0, 10));
