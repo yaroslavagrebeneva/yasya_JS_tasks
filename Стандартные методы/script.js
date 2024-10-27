@@ -53,3 +53,10 @@ for (let i = 0; i <= 9; i++){
     arr187_2[i] = getRandomInt(55, 100);
 }
 console.log(arr187_2);
+
+/*188*/
+
+console.log('Результат задания 188 №1:');
+let a = -500;
+let b = 25;
+console.log (Math.abs(a-b));
