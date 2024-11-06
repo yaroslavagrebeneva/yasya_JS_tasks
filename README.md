@@ -35,9 +35,15 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJrNGRhNjd6N3JyMWJwMXA3cTVmczQzNWl4cHNhc294MDVzNnE1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10U8Jinlgva6Y/giphy.gif" width="100px"/><a href="https://github.com/yaroslavagrebeneva/yasya_JS_tasks/tree/main/Многомерность">Tasks_#168_183</a>
 </p>
 
-<h2> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNrbjdva3c4ZHdvaWw4dzB1dmt1ZWI2eWg0ZHFhb2IwcW93cm5laCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iOFSGSk5W7GoDUo92p/giphy.gif" width="160px"/>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=30&pause=100&color=000000&background=E17F0439&vCenter=true&width=570&height=40&lines=Solving_Standart_Methods_JS" alt="Typing SVG" /></h2>
+<h2> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNrbjdva3c4ZHdvaWw4dzB1dmt1ZWI2eWg0ZHFhb2IwcW93cm5laCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iOFSGSk5W7GoDUo92p/giphy.gif" width="160px"/>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=30&pause=100&color=000000&background=E17F0439&vCenter=true&width=500&height=40&lines=Solving_Standart_Methods_JS" alt="Typing SVG" /></h2>
 
 <p>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJrNGRhNjd6N3JyMWJwMXA3cTVmczQzNWl4cHNhc294MDVzNnE1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10U8Jinlgva6Y/giphy.gif" width="100px"/><a href="https://github.com/yaroslavagrebeneva/yasya_JS_tasks/tree/main/Стандартные_методы">Tasks_#184_199</a>
+</p>
+
+<h2> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNrbjdva3c4ZHdvaWw4dzB1dmt1ZWI2eWg0ZHFhb2IwcW93cm5laCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iOFSGSk5W7GoDUo92p/giphy.gif" width="160px"/>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=30&pause=100&color=000000&background=E17F0439&vCenter=true&width=570&height=40&lines=Solving_Polsovatelskie_function_JS" alt="Typing SVG" /></h2>
+
+<p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJrNGRhNjd6N3JyMWJwMXA3cTVmczQzNWl4cHNhc294MDVzNnE1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10U8Jinlgva6Y/giphy.gif" width="100px"/><a href="https://github.com/yaroslavagrebeneva/yasya_JS_tasks/tree/main/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8">Tasks_#200_215</a>
 </p>
 
