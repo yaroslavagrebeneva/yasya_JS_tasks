@@ -178,3 +178,29 @@
 // let num = 1;
 // func(num);
 // console.log(num); // Результат выполнения задания = 1
+
+/*221*/
+
+// Задание 221 №1
+// function func(num) {
+//   num = 2;
+// }
+// let num = 1;
+// func(num);
+// console.log(num); // Результат выполнения задания = 1
+
+// Задание 221 №2
+// function func() {
+//   num = 2;
+// }
+// let num = 1;
+// func();
+// console.log(num); // Результат выполнения задания = 2
+
+// Задание 221 №3
+// function func() {
+//   let num = 2;
+// }
+// let num = 1;
+// func();
+// console.log(num); // Результат выполнения задания = 1
