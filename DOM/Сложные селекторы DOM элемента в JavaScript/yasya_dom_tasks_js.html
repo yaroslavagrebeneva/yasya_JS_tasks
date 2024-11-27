@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>yasya</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h2>Tasks №340</h2>
+		<div id="block">
+			<p>1</p>
+			<p>2</p>
+		</div>
+		<div class="block">
+			<p>1</p>
+			<p>2</p>
+		</div>
+		<p class="www">text</p>
+		<p class="www">text</p>
+		<script>
+			// Задание 340_1: Получить первый абзац из дива с id, равным block
+const firstParagraphById = document.querySelector('#block p');
+console.log(firstParagraphById); // Выводит ссылку на первый <p> внутри <div id="block">
+
+// Задание 340_2: Получить первый абзац из дива с классом block
+const firstParagraphByClass = document.querySelector('.block p');
+console.log(firstParagraphByClass); // Выводит ссылку на первый <p> внутри <div class="block">
+
+// Задание 340_3: Получить первый абзац с классом www
+const firstParagraphByClassWWW = document.querySelector('p.www');
+console.log(firstParagraphByClassWWW); // Выводит ссылку на первый элемент <p> с классом www
+
+		</script>
+	</body>
+</html>
